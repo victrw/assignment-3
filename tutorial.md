@@ -1,14 +1,20 @@
-Starting from a Fresh Debian 12 server on digitalocean, this tutorial will have detailed steps of how to:
+# Detailed tutorial for a new digitalocean user:
 
-Create a new regular user:
+### Create a new regular user
 
 User can perform administrative tasks
+
 User has bash as login shell
+
 User can access the server via SSH
 
 
 Prevent the root user from connecting to the server via SSH
-Install nginx
+
+### Nginx
+
+Install nginx package
+
 Configure nginx to serve a sample website
 
 
